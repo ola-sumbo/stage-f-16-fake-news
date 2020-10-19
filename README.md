@@ -1,4 +1,6 @@
-# Predict-Food-Delivery #
+# Fake And Real News Dataset #
+*Classifying the news*
 
-The provided data contains three .xslx files with 18 columns. Use this data to predict the time take for food to be delivered.
-[Here is a link to the dataset](https://https://www.kaggle.com/ramprasad273/predicting-food-delivery-time)
+Can you use this dataset to make an algorithm that is able to determine if an article is fake news or not?
+
+[Here is a link to the dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
